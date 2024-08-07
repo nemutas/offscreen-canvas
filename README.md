@@ -1,7 +1,6 @@
 # About
 
-GLSL School（10期）で配布された`offscreen-canvas`のコード（vanilla webgl）を、three.jsで実装し直しました。<br />
-shaderは、glsl es 3.0を使用しています。
+Web Worker と OffscreenCanvas を組み合わせたデモ
 
 https://nemutas.github.io/offscreen-canvas/
 
