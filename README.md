@@ -23,3 +23,8 @@ https://github.com/nemutas/offscreen-canvas/blob/601900ef2b1b6e2a998f5a3c095d865
 ---
 worker内でeventを識別する。  
 https://github.com/nemutas/offscreen-canvas/blob/601900ef2b1b6e2a998f5a3c095d865ab53f17b7/src/scripts/worker.ts#L3-L14
+
+# Reference
+- [OffscreenCanvas](https://developer.mozilla.org/ja/docs/Web/API/OffscreenCanvas)  
+- [オフスクリーンキャンバスを使ったJavaScriptのマルチスレッド描画- スムーズなユーザー操作実現の切り札 -](https://ics.media/entry/19043/)
+- [three.js webgl_worker_offscreencanvas](https://threejs.org/examples/?q=off#webgl_worker_offscreencanvas)
