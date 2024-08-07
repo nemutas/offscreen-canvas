@@ -3,13 +3,12 @@
 
 html {
   font-size: calc(1000vw / 1500);
-  @include sp {
-    font-size: calc(1000vw / 750);
-  }
   height: 100%;
   background: #000;
   @include fonts.poppins;
-  // overflow: hidden;
+  @include sp {
+    font-size: calc(1000vw / 750);
+  }
 }
 
 body,
