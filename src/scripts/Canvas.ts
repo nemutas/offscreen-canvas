@@ -24,7 +24,6 @@ export class Canvas {
     const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true })
     renderer.setSize(width, height)
     renderer.setPixelRatio(dpr)
-    renderer.shadowMap.enabled = true
     return renderer
   }
 
