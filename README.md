@@ -6,7 +6,7 @@ https://nemutas.github.io/offscreen-canvas/
 
 # Note
 [OffscreenCanvas](https://developer.mozilla.org/ja/docs/Web/API/OffscreenCanvas)  
-Safariでは、`16.4`（2023.3.27）からサポートされた仕様なので、実用では注意したい。
+Safariでは、`16.4`（2023.3.27）からサポートされた仕様なので、実務上で使用する場合は注意したい。
 
 ---
 workerファイル内でimportを使用する場合、`type: 'module'`を設定する。  
